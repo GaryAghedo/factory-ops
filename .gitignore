@@ -1,0 +1,92 @@
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Metals ###
+.bsp/
+.metals/
+.bloop/
+
+### Environment ###
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+
+### PostgreSQL local data ###
+postgres-data/
+
+### OpenSearch local data ###
+opensearch-data/
+
+### Test / Coverage ###
+coverage/
+.scoverage/
+test-results/
+
+### generated files ###
+generated/
+src/main/scala-generated/
+src/test/scala-generated/
+
+### Temporary files ###
+tmp/
+temp/
+*.swp
+*.swo
+*~
+
+### Temporary files ###
+target/
+project/target/
+project/project/
+
+
+.scala-build/
+*.class
+*.jar
+*.war
+*.ear
